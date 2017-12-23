@@ -1,0 +1,231 @@
+/*palt input*/
+
+#wrapper{
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: 200px;
+		width: 1000px;
+}
+
+.sub-entry {
+		width: 25%;
+    		float: left;
+
+
+}
+.sub-entry-query {
+		width: 50%;
+    		
+
+
+}
+
+	.button {
+    		text-align: center;
+    		padding-top: 20px;
+    		clear: both;
+}
+
+	.form-style-2{
+		
+    		margin: 0px 50px 100px 50px;
+    		font: 13px Arial, Helvetica, sans-serif;
+}
+.form-style-2-query{
+                margin: 0px 50px 100px 50px;
+                font: 13px Arial, Helvetica, sans-serif;
+}
+.form-style-2-query label{
+		width: 70%;
+                display: block;
+                margin: 0px 0px 15px 0px;
+}
+
+.form-style-2-query label > span{
+                width: 250px;
+		text-align: left;
+                font-weight: bold;
+                float: left;
+                padding-top: 8px;
+                padding-right: 5px;
+}
+
+	
+	.form-style-3{
+		clear: both;
+		background-color: white;
+    		padding: 0px 100px 100px 100px;
+    		font: 13px Arial, Helvetica, sans-serif;
+}
+
+	.form-style-3 label,
+	.form-style-2 label{
+    		display: block;
+    		margin: 0px 0px 15px 0px;
+}
+
+	.form-style-3 label > span,
+	.form-style-2 label > span{
+    		width: 250px;
+    		font-weight: bold;
+    		float: left;
+    		padding-top: 8px;
+    		padding-right: 5px;
+}
+
+	.palt_input{
+		background-color: white;
+		margin-right: auto;
+		margin-left: auto;
+}
+	
+	.form-style-3 input.table-size{
+ 		box-sizing: border-box;
+    			-webkit-box-sizing: border-box;
+   			-moz-box-sizing: border-box;
+    		border: 1px solid #C2C2C2;
+    		box-shadow: 1px 1px 4px #EBEBEB;
+    			-moz-box-shadow: 1px 1px 4px #EBEBEB;
+    			-webkit-box-shadow: 1px 1px 4px #EBEBEB;
+    		border-radius: 3px;
+   			-webkit-border-radius: 3px;
+    			-moz-border-radius: 3px;
+    		padding: 7px;
+    		outline: none;
+		width: 100px;
+}
+
+	div#milestonesTable{
+		background-color:white;
+}
+
+	
+	.form-style-2-heading{
+    		font-weight: bold;
+		border-bottom: 2px solid #ddd;
+		margin-bottom: 20px;
+		font-size: 40px;
+		padding-bottom: 3px;
+		text-align: center;	
+}
+
+	.form-style-2 span.required{
+    		color:red;
+}
+
+}
+	.form-style-2-query input.input-field,
+	.form-style-2 input.input-field{
+   		width: 120px;
+    
+}
+
+
+input[type=button]:hover,
+input[type=submit]:hover{
+background: linear-gradient(#ffdd7f 5%, #ffbc00 100%);
+}
+
+input[type=submit],
+input[type=button]{
+    border: none;
+    padding: 8px 15px 8px 15px;
+    background: #FF8500;
+    color: #fff;
+    box-shadow: 1px 1px 4px #DADADA;
+    -moz-box-shadow: 1px 1px 4px #DADADA;
+    -webkit-box-shadow: 1px 1px 4px #DADADA;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+}
+body{
+background-image: url("css/it-pic.jpg");
+}
+.form-style-2-query input.input-field,
+.form-style-2 input.input-field, 
+ .form-style-2 .select-field{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border: 1px solid #C2C2C2;
+    box-shadow: 1px 1px 4px #EBEBEB;
+    -moz-box-shadow: 1px 1px 4px #EBEBEB;
+    -webkit-box-shadow: 1px 1px 4px #EBEBEB;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    padding: 7px;
+    outline: none;
+}
+.form-style-2 .input-field:focus, 
+.form-style-2 .select-field:focus{
+    border: 1px solid #0C0;
+}
+
+
+.outer {
+  position: relative;
+  
+  
+  
+
+}
+
+
+	body{
+		background-image: url("css/it-pic.jpg");
+}
+
+	.form-style-2 .select-field{
+   		width: 190px;
+}
+
+}
+	.inner{
+  		position: static;
+}
+	.error {
+		border-color: red;
+}
+
+	.error-message {
+		color: red;
+		font-style: italic;
+		margin-bottom: 1em;
+}
+
+
+
+/*modify milestone*/
+
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+}
+
+.form-style-2mm-heading{
+	align-content: center;
+	background-color: white;
+	font-weight: bold;
+	border-bottom: 2px solid #ddd;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 40px;
+	text-align: center;
+		
+}
+
+.form-style-2mm{
+	align-content: center;
+	background-color: white;
+   	padding: 0px 100px 100px 300px;
+	margin-left: auto;
+   	font: 13px Arial, Helvetica, sans-serif;
+}
+
+
+
+
