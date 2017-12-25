@@ -1,5 +1,4 @@
 Install Process
-test
 
 Ensure changes are committed and controlled through GIT
 
