@@ -1,7 +1,5 @@
 Install Process
 
-TEST
-
 Ensure changes are committed and controlled through GIT
 
 ssh into respective environment
